@@ -8,12 +8,12 @@ Laipni lūgti manā zināšanu un ideju krātuvē. Šī mājaslapa tiek veidota 
 - ⚡️ Statiskā mājaslapa ar VitePress
 - 🚀 Publicēta ar GitHub Pages
 
-## Sadaļas (drīzumā)
+<!-- ## Sadaļas (drīzumā)
 
 - [Par projektu](./par.md)
 - [Idejas](./idejas.md)
 - [Piezīmes](./piezimes.md)
 
----
+--- -->
 
 🎯 Šis projekts ir attīstībā – paldies, ka ieskatījies!
