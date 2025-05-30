@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "af3da29ffd724f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "9921ba314b1cf409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049736d060089a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/vault/01_kosmoss/melnais-caurums.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "melnais-caurums"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6518a53469410bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "64873450b5c83531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c4b701d5d6832c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a21854bdbda0db1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da82925afd66aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dfcfc6dfe138831",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39175661c1a0bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0a85f35574a669a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/vault/01_kosmoss/melnais-caurums.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for melnais-caurums"
+            }
+          },
+          {
+            "id": "d46e11c3867600dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/vault/01_kosmoss/melnais-caurums.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from melnais-caurums"
+            }
+          },
+          {
+            "id": "9c3e3f8ed6eee0f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "466a8531a432607e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/vault/01_kosmoss/melnais-caurums.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of melnais-caurums"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "049736d060089a35",
+  "lastOpenFiles": [
+    "docs/vault/01_kosmoss/img/melnais-caurums.jpg",
+    "docs/vault/02_smadzenes/miegs-un-atmina.md",
+    "docs/vault/01_kosmoss/img",
+    "docs/vault/01_kosmoss/011_test/tests.md",
+    "docs/vault/02_smadzenes/img/smadzenu-skice.jpg",
+    "docs/vault/02_smadzenes/img",
+    "docs/vault/02_smadzenes/smadzenu-skice.jpg",
+    "docs/vault/01_kosmoss/melnais-caurums.md",
+    "docs/vault/01_kosmoss/011_test",
+    "docs/vault/02_smadzenes/img/smadzenu-skice.jpg.md",
+    "docs/vault/02_smadzenes/img",
+    "smadzenu-skice 1.jpg",
+    "smadzenu-skice.jpg",
+    "docs/vault/02_smadzenes/neironu-tiklojums.md",
+    "docs/vault/about.md",
+    "docs/vault/02_smadzenes/img",
+    "smadzeņu skice.jpg",
+    "docs/vault/01_kosmoss/misija-uz-marsu.md",
+    "docs/vault/index.md",
+    "docs/vault/02_smadzenes",
+    "node_modules/@types/flexsearch/package.json",
+    "node_modules/@types/flexsearch/index.d.ts",
+    "node_modules/@types/flexsearch/README.md",
+    "node_modules/@types/flexsearch/LICENSE",
+    "node_modules/vitepress-plugin-search/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts",
+    "node_modules/vitepress-plugin-search/node_modules/@types/markdown-it/README.md",
+    "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
+    "node_modules/vitepress-plugin-search/README.md",
+    "node_modules/markdown-it/node_modules/entities/readme.md",
+    "node_modules/markdown-it/README.md",
+    "node_modules/uc.micro/README.md",
+    "node_modules/uc.micro/CHANGELOG.md",
+    "node_modules/linkify-it/README.md",
+    "node_modules/mdurl/README.md",
+    "node_modules/mdurl/CHANGELOG.md",
+    "node_modules/argparse/README.md",
+    "node_modules/argparse/CHANGELOG.md",
+    "node_modules/glob-to-regexp/README.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/fsevents/README.md",
+    "README.md"
+  ]
+}
