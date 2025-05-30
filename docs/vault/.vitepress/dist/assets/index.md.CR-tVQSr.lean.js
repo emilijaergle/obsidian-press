@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,ak as n}from"./chunks/framework.DveZc9vE.js";const d=JSON.parse('{"title":"Sveicināti Zinātavā!","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),s={name:"index.md"};function r(o,i,u,l,p,m){return e(),t("div",null,i[0]||(i[0]=[n("",7)]))}const k=a(s,[["render",r]]);export{d as __pageData,k as default};

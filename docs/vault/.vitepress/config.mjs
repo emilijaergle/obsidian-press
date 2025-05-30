@@ -1,3 +1,4 @@
+// docs/vault/.vitepress/config.mjs
 import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
@@ -49,6 +50,7 @@ function getSidebarRecursive(dirPath, baseUrl = '') {
 export default defineConfig({
   title: 'Zinātava',
   description: 'Personīga zināšanu bāze',
+  appearance: true, // ļauj tumšo režīmu
   themeConfig: {
     nav: [
       { text: 'Sākums', link: '/' },
