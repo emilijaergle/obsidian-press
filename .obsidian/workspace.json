@@ -11,10 +11,14 @@
             "id": "049736d060089a35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/vault/02_smadzenes/neironu-tiklojums.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "neironu-tiklojums"
             }
           }
         ]
@@ -163,6 +167,13 @@
   },
   "active": "049736d060089a35",
   "lastOpenFiles": [
+    "docs/vault/01_kosmoss/misija-uz-marsu.md",
+    "docs/vault/02_smadzenes/neironu-tiklojums.md",
+    "docs/vault/02_smadzenes/miegs-un-atmina.md",
+    "docs/vault/02_smadzenes/miegs.md",
+    "docs/vault/01_kosmoss/melnais-caurums.md",
+    "01_kosmoss/misija-uz-marsu.md",
+    "01_kosmoss",
     "vite.config.js",
     "package.json",
     "package-lock.json",
@@ -173,8 +184,6 @@
     "node_modules/zwitch/index.d.ts",
     "node_modules/zwitch",
     "node_modules/vue/server-renderer/package.json",
-    "node_modules/vue/server-renderer/index.mjs",
-    "node_modules/vue/server-renderer/index.js",
     "node_modules/vue/README.md",
     "node_modules/vitepress/template/markdown-examples.md",
     "node_modules/vitepress/template/index.md",
@@ -195,11 +204,6 @@
     "node_modules/uc.micro/README.md",
     "node_modules/uc.micro/CHANGELOG.md",
     "node_modules/trim-lines/readme.md",
-    "node_modules/tabbable/SECURITY.md",
-    "node_modules/tabbable/README.md",
-    "node_modules/tabbable/CHANGELOG.md",
-    "node_modules/superjson/README.md",
-    "node_modules/stringify-entities/readme.md",
     "docs/vault/02_smadzenes/img/smadzenu-skice.jpg",
     "docs/vault/01_kosmoss/img/melnais-caurums.jpg",
     "docs/assets/smadzenu-skice.DhVF-Mj_.jpg",
