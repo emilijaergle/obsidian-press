@@ -1,4 +1,4 @@
 # Kontakti
 
-📧 barbavilima@inbox.lv  
-📍 Valmiera, Latvija
+📧 username@example.com
+📍 Pilsēta, Valsts
