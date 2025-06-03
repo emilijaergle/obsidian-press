@@ -50,7 +50,8 @@ function getSidebarRecursive(dirPath, baseUrl = '') {
 export default defineConfig({
   title: 'Zinātava',
   description: 'Personīga zināšanu bāze',
-  appearance: true, // ļauj tumšo režīmu
+  base: '/microbio/',
+  appearance: true,
   themeConfig: {
     nav: [
       { text: 'Sākums', link: '/' },
