@@ -6,3 +6,10 @@ Svarīgs kods:
 ```
 74848383736464848377378283
 ```
+
+```php
+<?php
+$teksts = "Tas nav svarīgs kods! Nekopēt";
+echo $teksts;
+?>
+	
