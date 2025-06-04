@@ -167,6 +167,8 @@
   },
   "active": "8d6d1c406e633544",
   "lastOpenFiles": [
+    "docs/public/icon.png",
+    "docs/public",
     "docs/vault/02_smadzenes/miegs.md",
     "docs/vault/01_kosmoss/melnais-caurums.md",
     "docs/vault/02_smadzenes/miegs-un-atmina.md",
@@ -180,7 +182,6 @@
     "node_modules/js-yaml/node_modules/argparse/lib/action/store/true.js",
     "node_modules/js-yaml/node_modules/argparse/lib/action/store/false.js",
     "node_modules/js-yaml/node_modules/argparse/lib/action/store/constant.js",
-    "node_modules/js-yaml/node_modules/argparse/lib/action/append/constant.js",
     "node_modules/js-yaml/node_modules/argparse/README.md",
     "node_modules/js-yaml/node_modules/argparse/CHANGELOG.md",
     "node_modules/js-yaml/README.md",
