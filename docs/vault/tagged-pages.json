@@ -1,0 +1,51 @@
+[
+  {
+    "title": "tests",
+    "tags": [],
+    "url": "/01_kosmoss/011_test/tests"
+  },
+  {
+    "title": "melnais-caurums",
+    "tags": [],
+    "url": "/01_kosmoss/melnais-caurums"
+  },
+  {
+    "title": "misija-uz-marsu",
+    "tags": [],
+    "url": "/01_kosmoss/misija-uz-marsu"
+  },
+  {
+    "title": "miegs-un-atmina",
+    "tags": [
+      "miegs",
+      "smadzenes",
+      "zinātne"
+    ],
+    "url": "/02_smadzenes/miegs-un-atmina"
+  },
+  {
+    "title": "miegs",
+    "tags": [],
+    "url": "/02_smadzenes/miegs"
+  },
+  {
+    "title": "neironu-tiklojums",
+    "tags": [],
+    "url": "/02_smadzenes/neironu-tiklojums"
+  },
+  {
+    "title": "about",
+    "tags": [],
+    "url": "/about"
+  },
+  {
+    "title": "contacts",
+    "tags": [],
+    "url": "/contacts"
+  },
+  {
+    "title": "index",
+    "tags": [],
+    "url": "/index"
+  }
+]

@@ -1,12 +1,12 @@
 import {
   useMediaQuery
-} from "./chunk-R2BBYDJG.js";
+} from "./chunk-C4LE74DB.js";
 import {
   computed,
   ref,
   shallowRef,
   watch
-} from "./chunk-GHBEL3RT.js";
+} from "./chunk-XH6U53VN.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "/Users/emilijaergle/microbio/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";

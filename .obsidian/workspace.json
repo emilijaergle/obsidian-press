@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9921ba314b1cf409",
+        "id": "3088bf25d18d8c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "049736d060089a35",
+            "id": "8d6d1c406e633544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/vault/01_kosmoss/misija-uz-marsu.md",
+                "file": "docs/vault/02_smadzenes/miegs-un-atmina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "misija-uz-marsu"
+              "title": "miegs-un-atmina"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:fizika",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,53 +165,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049736d060089a35",
+  "active": "8d6d1c406e633544",
   "lastOpenFiles": [
-    "docs/vault/public/icon.png",
-    "docs/vault/public",
-    "docs/vault/icon.png",
+    "docs/vault/02_smadzenes/miegs.md",
+    "docs/vault/01_kosmoss/melnais-caurums.md",
     "docs/vault/02_smadzenes/miegs-un-atmina.md",
     "docs/vault/01_kosmoss/misija-uz-marsu.md",
-    "docs/vault/01_kosmoss/melnais-caurums.md",
-    "docs/vault/02_smadzenes/miegs.md",
+    "docs/vault/tagged-pages.json",
+    "scripts/generate-tags.mjs",
+    "scripts/generate-tags.js",
+    "scripts",
+    "docs/scripts/generate-tags.js",
+    "docs/scripts",
+    "node_modules/js-yaml/node_modules/argparse/lib/action/store/true.js",
+    "node_modules/js-yaml/node_modules/argparse/lib/action/store/false.js",
+    "node_modules/js-yaml/node_modules/argparse/lib/action/store/constant.js",
+    "node_modules/js-yaml/node_modules/argparse/lib/action/append/constant.js",
+    "node_modules/js-yaml/node_modules/argparse/README.md",
+    "node_modules/js-yaml/node_modules/argparse/CHANGELOG.md",
+    "node_modules/js-yaml/README.md",
+    "node_modules/js-yaml/CHANGELOG.md",
+    "node_modules/sprintf-js/README.md",
+    "node_modules/esprima/README.md",
+    "node_modules/gray-matter/README.md",
+    "node_modules/gray-matter/CHANGELOG.md",
+    "node_modules/extend-shallow/README.md",
+    "node_modules/is-extendable/README.md",
+    "node_modules/strip-bom-string/README.md",
+    "node_modules/section-matter/README.md",
+    "node_modules/kind-of/README.md",
+    "node_modules/kind-of/CHANGELOG.md",
+    "docs/vault/public/icon.png",
+    "docs/vault/public/Screenshot 2025-06-04 at 12.44.58.png",
+    "docs/vault/icon.png",
     "docs/vault/02_smadzenes/neironu-tiklojums.md",
     "01_kosmoss/misija-uz-marsu.md",
-    "01_kosmoss",
-    "vite.config.js",
-    "package.json",
-    "package-lock.json",
     "node_modules/zwitch/readme.md",
-    "node_modules/zwitch/package.json",
-    "node_modules/zwitch/license",
-    "node_modules/zwitch/index.js",
-    "node_modules/zwitch/index.d.ts",
-    "node_modules/zwitch",
     "node_modules/vue/README.md",
     "node_modules/vitepress/template/markdown-examples.md",
     "node_modules/vitepress/template/index.md",
     "node_modules/vitepress/template/api-examples.md",
-    "node_modules/vitepress/README.md",
-    "node_modules/vitepress-plugin-search/node_modules/@types/markdown-it/README.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
-    "node_modules/vitepress-plugin-search/README.md",
-    "node_modules/vite/LICENSE.md",
-    "node_modules/vite/README.md",
-    "node_modules/vfile/readme.md",
-    "node_modules/vfile-message/readme.md",
-    "node_modules/unist-util-visit/readme.md",
-    "node_modules/unist-util-visit-parents/readme.md",
-    "node_modules/unist-util-stringify-position/readme.md",
-    "node_modules/unist-util-position/readme.md",
-    "node_modules/unist-util-is/readme.md",
-    "node_modules/uc.micro/README.md",
-    "node_modules/uc.micro/CHANGELOG.md",
     "docs/vault/02_smadzenes/img/smadzenu-skice.jpg",
     "docs/vault/01_kosmoss/img/melnais-caurums.jpg",
     "docs/assets/smadzenu-skice.DhVF-Mj_.jpg",
     "docs/assets/melnais-caurums.B7j-PE_C.jpg",
     "docs/vault/02_smadzenes/smadzenu-skice.jpg",
-    "smadzenu-skice 1.jpg",
-    "smadzenu-skice.jpg",
-    "smadzeņu skice.jpg"
+    "smadzenu-skice 1.jpg"
   ]
 }

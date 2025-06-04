@@ -51,11 +51,12 @@ export default defineConfig({
   title: 'Zinātava',
   description: 'Personīga zināšanu bāze',
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: '/microbio/icon.png' }]
   ],
   base: '/microbio/',
   appearance: true,
   themeConfig: {
+    logo: '/icon.png',
     nav: [
       { text: 'Sākums', link: '/' },
       { text: 'Par Zinātavu', link: '/about' },
