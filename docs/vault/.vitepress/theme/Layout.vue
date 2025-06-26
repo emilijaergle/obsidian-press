@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <template #navbar-title>
-      <img src="/microbio/icon.png" alt="Zinātava" style="height: 40px;" />
+      <img src="/icon.png" alt="Zinātava" style="height: 40px;" />
     </template>
   </Layout>
 </template>
